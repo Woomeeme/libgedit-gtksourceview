@@ -1,0 +1,345 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-01-25 16:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: default-language-specs/abnf.lang/language@_section
+#. (itstool) path: default-language-specs/actionscript.lang/language@_section
+#. (itstool) path: default-language-specs/ada.lang/language@_section
+#. (itstool) path: default-language-specs/ansforth94.lang/language@_section
+#. (itstool) path: default-language-specs/asp.lang/language@_section
+#. (itstool) path: default-language-specs/automake.lang/language@_section
+#. (itstool) path: default-language-specs/bennugd.lang/language@_section
+#. (itstool) path: default-language-specs/bluespec.lang/language@_section
+#. (itstool) path: default-language-specs/boo.lang/language@_section
+#. (itstool) path: default-language-specs/cg.lang/language@_section
+#. (itstool) path: default-language-specs/chdr.lang/language@_section
+#. (itstool) path: default-language-specs/c.lang/language@_section
+#. (itstool) path: default-language-specs/cobol.lang/language@_section
+#. (itstool) path: default-language-specs/cpphdr.lang/language@_section
+#. (itstool) path: default-language-specs/cpp.lang/language@_section
+#. (itstool) path: default-language-specs/csharp.lang/language@_section
+#. (itstool) path: default-language-specs/cuda.lang/language@_section
+#. (itstool) path: default-language-specs/d.lang/language@_section
+#. (itstool) path: default-language-specs/eiffel.lang/language@_section
+#. (itstool) path: default-language-specs/erlang.lang/language@_section
+#. (itstool) path: default-language-specs/forth.lang/language@_section
+#. (itstool) path: default-language-specs/fortran.lang/language@_section
+#. (itstool) path: default-language-specs/fsharp.lang/language@_section
+#. (itstool) path: default-language-specs/genie.lang/language@_section
+#. (itstool) path: default-language-specs/glsl.lang/language@_section
+#. (itstool) path: default-language-specs/go.lang/language@_section
+#. (itstool) path: default-language-specs/groovy.lang/language@_section
+#. (itstool) path: default-language-specs/haskell.lang/language@_section
+#. (itstool) path: default-language-specs/haskell-literate.lang/language@_section
+#. (itstool) path: default-language-specs/haxe.lang/language@_section
+#. (itstool) path: default-language-specs/idl.lang/language@_section
+#. (itstool) path: default-language-specs/java.lang/language@_section
+#. (itstool) path: default-language-specs/j.lang/language@_section
+#. (itstool) path: default-language-specs/kotlin.lang/language@_section
+#. (itstool) path: default-language-specs/lex.lang/language@_section
+#. (itstool) path: default-language-specs/llvm.lang/language@_section
+#. (itstool) path: default-language-specs/makefile.lang/language@_section
+#. (itstool) path: default-language-specs/meson.lang/language@_section
+#. (itstool) path: default-language-specs/nemerle.lang/language@_section
+#. (itstool) path: default-language-specs/netrexx.lang/language@_section
+#. (itstool) path: default-language-specs/objc.lang/language@_section
+#. (itstool) path: default-language-specs/objj.lang/language@_section
+#. (itstool) path: default-language-specs/ocaml.lang/language@_section
+#. (itstool) path: default-language-specs/ooc.lang/language@_section
+#. (itstool) path: default-language-specs/opal.lang/language@_section
+#. (itstool) path: default-language-specs/opencl.lang/language@_section
+#. (itstool) path: default-language-specs/pascal.lang/language@_section
+#. (itstool) path: default-language-specs/pig.lang/language@_section
+#. (itstool) path: default-language-specs/prolog.lang/language@_section
+#. (itstool) path: default-language-specs/rust.lang/language@_section
+#. (itstool) path: default-language-specs/scala.lang/language@_section
+#. (itstool) path: default-language-specs/scheme.lang/language@_section
+#. (itstool) path: default-language-specs/sml.lang/language@_section
+#. (itstool) path: default-language-specs/sparql.lang/language@_section
+#. (itstool) path: default-language-specs/sql.lang/language@_section
+#. (itstool) path: default-language-specs/swift.lang/language@_section
+#. (itstool) path: default-language-specs/systemverilog.lang/language@_section
+#. (itstool) path: default-language-specs/thrift.lang/language@_section
+#. (itstool) path: default-language-specs/vala.lang/language@_section
+#. (itstool) path: default-language-specs/vbnet.lang/language@_section
+#. (itstool) path: default-language-specs/verilog.lang/language@_section
+#. (itstool) path: default-language-specs/vhdl.lang/language@_section
+#: default-language-specs/abnf.lang:30
+#: default-language-specs/actionscript.lang:24
+#: default-language-specs/ada.lang:25
+#: default-language-specs/ansforth94.lang:24
+#: default-language-specs/asp.lang:23
+#: default-language-specs/automake.lang:23
+#: default-language-specs/bennugd.lang:22
+#: default-language-specs/bluespec.lang:21
+#: default-language-specs/boo.lang:23
+#: default-language-specs/cg.lang:23
+#: default-language-specs/chdr.lang:24
+#: default-language-specs/c.lang:24
+#: default-language-specs/cobol.lang:26
+#: default-language-specs/cpphdr.lang:24
+#: default-language-specs/cpp.lang:24
+#: default-language-specs/csharp.lang:26
+#: default-language-specs/cuda.lang:22
+#: default-language-specs/d.lang:29
+#: default-language-specs/eiffel.lang:23
+#: default-language-specs/erlang.lang:23
+#: default-language-specs/forth.lang:23
+#: default-language-specs/fortran.lang:24
+#: default-language-specs/fsharp.lang:24
+#: default-language-specs/genie.lang:23
+#: default-language-specs/glsl.lang:30
+#: default-language-specs/go.lang:24
+#: default-language-specs/groovy.lang:24
+#: default-language-specs/haskell.lang:24
+#: default-language-specs/haskell-literate.lang:23
+#: default-language-specs/haxe.lang:34
+#: default-language-specs/idl.lang:23
+#: default-language-specs/java.lang:24
+#: default-language-specs/j.lang:23
+#: default-language-specs/kotlin.lang:24
+#: default-language-specs/lex.lang:24
+#: default-language-specs/llvm.lang:22
+#: default-language-specs/makefile.lang:22
+#: default-language-specs/meson.lang:23
+#: default-language-specs/nemerle.lang:23
+#: default-language-specs/netrexx.lang:23
+#: default-language-specs/objc.lang:23
+#: default-language-specs/objj.lang:25
+#: default-language-specs/ocaml.lang:26
+#: default-language-specs/ooc.lang:23
+#: default-language-specs/opal.lang:23
+#: default-language-specs/opencl.lang:23
+#: default-language-specs/pascal.lang:24
+#: default-language-specs/pig.lang:26
+#: default-language-specs/prolog.lang:23
+#: default-language-specs/rust.lang:35
+#: default-language-specs/scala.lang:24
+#: default-language-specs/scheme.lang:23
+#: default-language-specs/sml.lang:23
+#: default-language-specs/sparql.lang:23
+#: default-language-specs/sql.lang:23
+#: default-language-specs/swift.lang:24
+#: default-language-specs/systemverilog.lang:21
+#: default-language-specs/thrift.lang:20
+#: default-language-specs/vala.lang:27
+#: default-language-specs/vbnet.lang:23
+#: default-language-specs/verilog.lang:23
+#: default-language-specs/vhdl.lang:23
+msgid "Source"
+msgstr ""
+
+#. (itstool) path: default-language-specs/awk.lang/language@_section
+#. (itstool) path: default-language-specs/dosbatch.lang/language@_section
+#. (itstool) path: default-language-specs/javascript.lang/language@_section
+#. (itstool) path: default-language-specs/lua.lang/language@_section
+#. (itstool) path: default-language-specs/m4.lang/language@_section
+#. (itstool) path: default-language-specs/perl.lang/language@_section
+#. (itstool) path: default-language-specs/php.lang/language@_section
+#. (itstool) path: default-language-specs/python3.lang/language@_section
+#. (itstool) path: default-language-specs/python.lang/language@_section
+#. (itstool) path: default-language-specs/ruby.lang/language@_section
+#. (itstool) path: default-language-specs/sh.lang/language@_section
+#. (itstool) path: default-language-specs/tcl.lang/language@_section
+#: default-language-specs/awk.lang:23
+#: default-language-specs/dosbatch.lang:23
+#: default-language-specs/javascript.lang:26
+#: default-language-specs/lua.lang:23
+#: default-language-specs/m4.lang:23
+#: default-language-specs/perl.lang:25
+#: default-language-specs/php.lang:28
+#: default-language-specs/python3.lang:23
+#: default-language-specs/python.lang:27
+#: default-language-specs/ruby.lang:26
+#: default-language-specs/sh.lang:24
+#: default-language-specs/tcl.lang:23
+msgid "Script"
+msgstr ""
+
+#. (itstool) path: default-language-specs/bibtex.lang/language@_section
+#. (itstool) path: default-language-specs/docbook.lang/language@_section
+#. (itstool) path: default-language-specs/dtd.lang/language@_section
+#. (itstool) path: default-language-specs/dtl.lang/language@_section
+#. (itstool) path: default-language-specs/gtk-doc.lang/language@_section
+#. (itstool) path: default-language-specs/haddock.lang/language@_section
+#. (itstool) path: default-language-specs/html.lang/language@_section
+#. (itstool) path: default-language-specs/jade.lang/language@_section
+#. (itstool) path: default-language-specs/latex.lang/language@_section
+#. (itstool) path: default-language-specs/mallard.lang/language@_section
+#. (itstool) path: default-language-specs/markdown.lang/language@_section
+#. (itstool) path: default-language-specs/mediawiki.lang/language@_section
+#. (itstool) path: default-language-specs/mxml.lang/language@_section
+#. (itstool) path: default-language-specs/rst.lang/language@_section
+#. (itstool) path: default-language-specs/sweave.lang/language@_section
+#. (itstool) path: default-language-specs/t2t.lang/language@_section
+#. (itstool) path: default-language-specs/tera.lang/language@_section
+#. (itstool) path: default-language-specs/texinfo.lang/language@_section
+#. (itstool) path: default-language-specs/xml.lang/language@_section
+#. (itstool) path: default-language-specs/xslt.lang/language@_section
+#: default-language-specs/bibtex.lang:23
+#: default-language-specs/docbook.lang:23
+#: default-language-specs/dtd.lang:23
+#: default-language-specs/dtl.lang:25
+#: default-language-specs/gtk-doc.lang:24
+#: default-language-specs/haddock.lang:23
+#: default-language-specs/html.lang:24
+#: default-language-specs/jade.lang:24
+#: default-language-specs/latex.lang:24
+#: default-language-specs/mallard.lang:22
+#: default-language-specs/markdown.lang:25
+#: default-language-specs/mediawiki.lang:22
+#: default-language-specs/mxml.lang:23
+#: default-language-specs/rst.lang:22
+#: default-language-specs/sweave.lang:24
+#: default-language-specs/t2t.lang:23
+#: default-language-specs/tera.lang:23
+#: default-language-specs/texinfo.lang:24
+#: default-language-specs/xml.lang:25
+#: default-language-specs/xslt.lang:23
+msgid "Markup"
+msgstr ""
+
+#. (itstool) path: default-language-specs/cg.lang/language@_name
+#: default-language-specs/cg.lang:23
+msgid "CG Shader Language"
+msgstr ""
+
+#. (itstool) path: default-language-specs/changelog.lang/language@_section
+#. (itstool) path: default-language-specs/cmake.lang/language@_section
+#. (itstool) path: default-language-specs/css.lang/language@_section
+#. (itstool) path: default-language-specs/csv.lang/language@_section
+#. (itstool) path: default-language-specs/desktop.lang/language@_section
+#. (itstool) path: default-language-specs/diff.lang/language@_section
+#. (itstool) path: default-language-specs/dot.lang/language@_section
+#. (itstool) path: default-language-specs/dpatch.lang/language@_section
+#. (itstool) path: default-language-specs/gdb-log.lang/language@_section
+#. (itstool) path: default-language-specs/gtkrc.lang/language@_section
+#. (itstool) path: default-language-specs/ini.lang/language@_section
+#. (itstool) path: default-language-specs/json.lang/language@_section
+#. (itstool) path: default-language-specs/less.lang/language@_section
+#. (itstool) path: default-language-specs/libtool.lang/language@_section
+#. (itstool) path: default-language-specs/logcat.lang/language@_section
+#. (itstool) path: default-language-specs/nix.lang/language@_section
+#. (itstool) path: default-language-specs/nsis.lang/language@_section
+#. (itstool) path: default-language-specs/ocl.lang/language@_section
+#. (itstool) path: default-language-specs/pkgconfig.lang/language@_section
+#. (itstool) path: default-language-specs/po.lang/language@_section
+#. (itstool) path: default-language-specs/protobuf.lang/language@_section
+#. (itstool) path: default-language-specs/puppet.lang/language@_section
+#. (itstool) path: default-language-specs/rpmspec.lang/language@_section
+#. (itstool) path: default-language-specs/scss.lang/language@_section
+#. (itstool) path: default-language-specs/toml.lang/language@_section
+#. (itstool) path: default-language-specs/yacc.lang/language@_section
+#. (itstool) path: default-language-specs/yaml.lang/language@_section
+#: default-language-specs/changelog.lang:24
+#: default-language-specs/cmake.lang:23
+#: default-language-specs/css.lang:26
+#: default-language-specs/csv.lang:23
+#: default-language-specs/desktop.lang:24
+#: default-language-specs/diff.lang:23
+#: default-language-specs/dot.lang:23
+#: default-language-specs/dpatch.lang:23
+#: default-language-specs/gdb-log.lang:18
+#: default-language-specs/gtkrc.lang:24
+#: default-language-specs/ini.lang:22
+#: default-language-specs/json.lang:29
+#: default-language-specs/less.lang:23
+#: default-language-specs/libtool.lang:23
+#: default-language-specs/logcat.lang:23
+#: default-language-specs/nix.lang:23
+#: default-language-specs/nsis.lang:23
+#: default-language-specs/ocl.lang:32
+#: default-language-specs/pkgconfig.lang:23
+#: default-language-specs/po.lang:23
+#: default-language-specs/protobuf.lang:21
+#: default-language-specs/puppet.lang:23
+#: default-language-specs/rpmspec.lang:24
+#: default-language-specs/scss.lang:23
+#: default-language-specs/toml.lang:23
+#: default-language-specs/yacc.lang:23
+#: default-language-specs/yaml.lang:21
+msgid "Other"
+msgstr ""
+
+#. (itstool) path: default-language-specs/chdr.lang/language@_name
+#: default-language-specs/chdr.lang:24
+msgid "C/ObjC Header"
+msgstr ""
+
+#. (itstool) path: default-language-specs/cpphdr.lang/language@_name
+#: default-language-specs/cpphdr.lang:24
+msgid "C++ Header"
+msgstr ""
+
+#. (itstool) path: default-language-specs/dosbatch.lang/language@_name
+#: default-language-specs/dosbatch.lang:23
+msgid "DOS Batch"
+msgstr ""
+
+#. (itstool) path: default-language-specs/dtl.lang/language@_name
+#: default-language-specs/dtl.lang:25
+msgid "Django Template"
+msgstr ""
+
+#. (itstool) path: default-language-specs/fcl.lang/language@_section
+#. (itstool) path: default-language-specs/gap.lang/language@_section
+#. (itstool) path: default-language-specs/idl-exelis.lang/language@_section
+#. (itstool) path: default-language-specs/imagej.lang/language@_section
+#. (itstool) path: default-language-specs/julia.lang/language@_section
+#. (itstool) path: default-language-specs/matlab.lang/language@_section
+#. (itstool) path: default-language-specs/maxima.lang/language@_section
+#. (itstool) path: default-language-specs/modelica.lang/language@_section
+#. (itstool) path: default-language-specs/octave.lang/language@_section
+#. (itstool) path: default-language-specs/R.lang/language@_section
+#. (itstool) path: default-language-specs/scilab.lang/language@_section
+#: default-language-specs/fcl.lang:23
+#: default-language-specs/gap.lang:23
+#: default-language-specs/idl-exelis.lang:20
+#: default-language-specs/imagej.lang:23
+#: default-language-specs/julia.lang:23
+#: default-language-specs/matlab.lang:25
+#: default-language-specs/maxima.lang:24
+#: default-language-specs/modelica.lang:25
+#: default-language-specs/octave.lang:25
+#: default-language-specs/R.lang:25
+#: default-language-specs/scilab.lang:23
+msgid "Scientific"
+msgstr ""
+
+#. (itstool) path: default-language-specs/gdb-log.lang/language@_name
+#: default-language-specs/gdb-log.lang:18
+msgid "GDB Log"
+msgstr ""
+
+#. (itstool) path: default-language-specs/glsl.lang/language@_name
+#: default-language-specs/glsl.lang:30
+msgid "OpenGL Shading Language"
+msgstr ""
+
+#. (itstool) path: default-language-specs/llvm.lang/language@_name
+#: default-language-specs/llvm.lang:22
+msgid "LLVM IR"
+msgstr ""
+
+#. (itstool) path: default-language-specs/po.lang/language@_name
+#: default-language-specs/po.lang:23
+msgid "gettext translation"
+msgstr ""
+
+#. (itstool) path: default-language-specs/rpmspec.lang/language@_name
+#: default-language-specs/rpmspec.lang:24
+msgid "RPM spec"
+msgstr ""
+
+#. (itstool) path: default-language-specs/tera.lang/language@_name
+#: default-language-specs/tera.lang:23
+msgid "Tera Template"
+msgstr ""
+

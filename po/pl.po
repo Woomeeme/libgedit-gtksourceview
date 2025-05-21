@@ -1,0 +1,710 @@
+# Polish translation for libgedit-gtksourceview.
+# Copyright © 2003-2025 the libgedit-gtksourceview authors.
+# This file is distributed under the same license as the libgedit-gtksourceview package.
+# Artur Flinta <aflinta@at.kernel.pl>, 2003-2006.
+# Wadim Dziedzic <wdziedzic@aviary.pl>, 2007-2009.
+# Andrzej Polatyński <andrzej@datatel.net.pl>, 2007.
+# Wojciech Kapusta <wkapusta@aviary.pl>, 2009.
+# Piotr Drąg <piotrdrag@gmail.com>, 2009-2025.
+# Aviary.pl <community-poland@mozilla.org>, 2007-2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libgedit-gtksourceview\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/gedit/libgedit-"
+"gtksourceview/-/issues\n"
+"POT-Creation-Date: 2025-02-13 02:58+0000\n"
+"PO-Revision-Date: 2025-03-02 15:28+0100\n"
+"Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
+"Language-Team: Polish <community-poland@mozilla.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#. (itstool) path: default-language-specs/abnf.lang/language@_section
+#. (itstool) path: default-language-specs/actionscript.lang/language@_section
+#. (itstool) path: default-language-specs/ada.lang/language@_section
+#. (itstool) path: default-language-specs/ansforth94.lang/language@_section
+#. (itstool) path: default-language-specs/asp.lang/language@_section
+#. (itstool) path: default-language-specs/automake.lang/language@_section
+#. (itstool) path: default-language-specs/bennugd.lang/language@_section
+#. (itstool) path: default-language-specs/bluespec.lang/language@_section
+#. (itstool) path: default-language-specs/boo.lang/language@_section
+#. (itstool) path: default-language-specs/cg.lang/language@_section
+#. (itstool) path: default-language-specs/chdr.lang/language@_section
+#. (itstool) path: default-language-specs/c.lang/language@_section
+#. (itstool) path: default-language-specs/cobol.lang/language@_section
+#. (itstool) path: default-language-specs/cpphdr.lang/language@_section
+#. (itstool) path: default-language-specs/cpp.lang/language@_section
+#. (itstool) path: default-language-specs/csharp.lang/language@_section
+#. (itstool) path: default-language-specs/cuda.lang/language@_section
+#. (itstool) path: default-language-specs/d.lang/language@_section
+#. (itstool) path: default-language-specs/eiffel.lang/language@_section
+#. (itstool) path: default-language-specs/erlang.lang/language@_section
+#. (itstool) path: default-language-specs/forth.lang/language@_section
+#. (itstool) path: default-language-specs/fortran.lang/language@_section
+#. (itstool) path: default-language-specs/fsharp.lang/language@_section
+#. (itstool) path: default-language-specs/genie.lang/language@_section
+#. (itstool) path: default-language-specs/glsl.lang/language@_section
+#. (itstool) path: default-language-specs/go.lang/language@_section
+#. (itstool) path: default-language-specs/groovy.lang/language@_section
+#. (itstool) path: default-language-specs/haskell.lang/language@_section
+#. (itstool) path: default-language-specs/haskell-literate.lang/language@_section
+#. (itstool) path: default-language-specs/haxe.lang/language@_section
+#. (itstool) path: default-language-specs/idl.lang/language@_section
+#. (itstool) path: default-language-specs/java.lang/language@_section
+#. (itstool) path: default-language-specs/j.lang/language@_section
+#. (itstool) path: default-language-specs/kotlin.lang/language@_section
+#. (itstool) path: default-language-specs/lex.lang/language@_section
+#. (itstool) path: default-language-specs/llvm.lang/language@_section
+#. (itstool) path: default-language-specs/makefile.lang/language@_section
+#. (itstool) path: default-language-specs/meson.lang/language@_section
+#. (itstool) path: default-language-specs/nemerle.lang/language@_section
+#. (itstool) path: default-language-specs/netrexx.lang/language@_section
+#. (itstool) path: default-language-specs/objc.lang/language@_section
+#. (itstool) path: default-language-specs/objj.lang/language@_section
+#. (itstool) path: default-language-specs/ocaml.lang/language@_section
+#. (itstool) path: default-language-specs/ooc.lang/language@_section
+#. (itstool) path: default-language-specs/opal.lang/language@_section
+#. (itstool) path: default-language-specs/opencl.lang/language@_section
+#. (itstool) path: default-language-specs/pascal.lang/language@_section
+#. (itstool) path: default-language-specs/pig.lang/language@_section
+#. (itstool) path: default-language-specs/prolog.lang/language@_section
+#. (itstool) path: default-language-specs/rust.lang/language@_section
+#. (itstool) path: default-language-specs/scala.lang/language@_section
+#. (itstool) path: default-language-specs/scheme.lang/language@_section
+#. (itstool) path: default-language-specs/sml.lang/language@_section
+#. (itstool) path: default-language-specs/sparql.lang/language@_section
+#. (itstool) path: default-language-specs/sql.lang/language@_section
+#. (itstool) path: default-language-specs/swift.lang/language@_section
+#. (itstool) path: default-language-specs/systemverilog.lang/language@_section
+#. (itstool) path: default-language-specs/thrift.lang/language@_section
+#. (itstool) path: default-language-specs/vala.lang/language@_section
+#. (itstool) path: default-language-specs/vbnet.lang/language@_section
+#. (itstool) path: default-language-specs/verilog.lang/language@_section
+#. (itstool) path: default-language-specs/vhdl.lang/language@_section
+#: default-language-specs/abnf.lang:30
+#: default-language-specs/actionscript.lang:24
+#: default-language-specs/ada.lang:25 default-language-specs/ansforth94.lang:24
+#: default-language-specs/asp.lang:23 default-language-specs/automake.lang:23
+#: default-language-specs/bennugd.lang:22
+#: default-language-specs/bluespec.lang:21 default-language-specs/boo.lang:23
+#: default-language-specs/cg.lang:23 default-language-specs/chdr.lang:24
+#: default-language-specs/c.lang:24 default-language-specs/cobol.lang:26
+#: default-language-specs/cpphdr.lang:24 default-language-specs/cpp.lang:24
+#: default-language-specs/csharp.lang:26 default-language-specs/cuda.lang:22
+#: default-language-specs/d.lang:29 default-language-specs/eiffel.lang:23
+#: default-language-specs/erlang.lang:23 default-language-specs/forth.lang:23
+#: default-language-specs/fortran.lang:24 default-language-specs/fsharp.lang:24
+#: default-language-specs/genie.lang:23 default-language-specs/glsl.lang:30
+#: default-language-specs/go.lang:24 default-language-specs/groovy.lang:24
+#: default-language-specs/haskell.lang:24
+#: default-language-specs/haskell-literate.lang:23
+#: default-language-specs/haxe.lang:34 default-language-specs/idl.lang:23
+#: default-language-specs/java.lang:24 default-language-specs/j.lang:23
+#: default-language-specs/kotlin.lang:24 default-language-specs/lex.lang:24
+#: default-language-specs/llvm.lang:22 default-language-specs/makefile.lang:22
+#: default-language-specs/meson.lang:23 default-language-specs/nemerle.lang:23
+#: default-language-specs/netrexx.lang:23 default-language-specs/objc.lang:23
+#: default-language-specs/objj.lang:25 default-language-specs/ocaml.lang:26
+#: default-language-specs/ooc.lang:23 default-language-specs/opal.lang:23
+#: default-language-specs/opencl.lang:23 default-language-specs/pascal.lang:24
+#: default-language-specs/pig.lang:26 default-language-specs/prolog.lang:23
+#: default-language-specs/rust.lang:35 default-language-specs/scala.lang:24
+#: default-language-specs/scheme.lang:23 default-language-specs/sml.lang:23
+#: default-language-specs/sparql.lang:23 default-language-specs/sql.lang:23
+#: default-language-specs/swift.lang:24
+#: default-language-specs/systemverilog.lang:21
+#: default-language-specs/thrift.lang:20 default-language-specs/vala.lang:27
+#: default-language-specs/vbnet.lang:23 default-language-specs/verilog.lang:23
+#: default-language-specs/vhdl.lang:23
+msgid "Source"
+msgstr "Kod źródłowy"
+
+#. (itstool) path: default-language-specs/awk.lang/language@_section
+#. (itstool) path: default-language-specs/dosbatch.lang/language@_section
+#. (itstool) path: default-language-specs/javascript.lang/language@_section
+#. (itstool) path: default-language-specs/lua.lang/language@_section
+#. (itstool) path: default-language-specs/m4.lang/language@_section
+#. (itstool) path: default-language-specs/perl.lang/language@_section
+#. (itstool) path: default-language-specs/php.lang/language@_section
+#. (itstool) path: default-language-specs/python3.lang/language@_section
+#. (itstool) path: default-language-specs/python.lang/language@_section
+#. (itstool) path: default-language-specs/ruby.lang/language@_section
+#. (itstool) path: default-language-specs/sh.lang/language@_section
+#. (itstool) path: default-language-specs/tcl.lang/language@_section
+#: default-language-specs/awk.lang:23 default-language-specs/dosbatch.lang:23
+#: default-language-specs/javascript.lang:26 default-language-specs/lua.lang:23
+#: default-language-specs/m4.lang:23 default-language-specs/perl.lang:25
+#: default-language-specs/php.lang:28 default-language-specs/python3.lang:23
+#: default-language-specs/python.lang:27 default-language-specs/ruby.lang:26
+#: default-language-specs/sh.lang:24 default-language-specs/tcl.lang:23
+msgid "Script"
+msgstr "Skrypty"
+
+#. (itstool) path: default-language-specs/bibtex.lang/language@_section
+#. (itstool) path: default-language-specs/docbook.lang/language@_section
+#. (itstool) path: default-language-specs/dtd.lang/language@_section
+#. (itstool) path: default-language-specs/dtl.lang/language@_section
+#. (itstool) path: default-language-specs/gtk-doc.lang/language@_section
+#. (itstool) path: default-language-specs/haddock.lang/language@_section
+#. (itstool) path: default-language-specs/html.lang/language@_section
+#. (itstool) path: default-language-specs/jade.lang/language@_section
+#. (itstool) path: default-language-specs/latex.lang/language@_section
+#. (itstool) path: default-language-specs/mallard.lang/language@_section
+#. (itstool) path: default-language-specs/markdown.lang/language@_section
+#. (itstool) path: default-language-specs/mediawiki.lang/language@_section
+#. (itstool) path: default-language-specs/mxml.lang/language@_section
+#. (itstool) path: default-language-specs/rst.lang/language@_section
+#. (itstool) path: default-language-specs/sweave.lang/language@_section
+#. (itstool) path: default-language-specs/t2t.lang/language@_section
+#. (itstool) path: default-language-specs/tera.lang/language@_section
+#. (itstool) path: default-language-specs/texinfo.lang/language@_section
+#. (itstool) path: default-language-specs/xml.lang/language@_section
+#. (itstool) path: default-language-specs/xslt.lang/language@_section
+#: default-language-specs/bibtex.lang:23 default-language-specs/docbook.lang:23
+#: default-language-specs/dtd.lang:23 default-language-specs/dtl.lang:25
+#: default-language-specs/gtk-doc.lang:24
+#: default-language-specs/haddock.lang:23 default-language-specs/html.lang:24
+#: default-language-specs/jade.lang:24 default-language-specs/latex.lang:24
+#: default-language-specs/mallard.lang:22
+#: default-language-specs/markdown.lang:25
+#: default-language-specs/mediawiki.lang:22 default-language-specs/mxml.lang:23
+#: default-language-specs/rst.lang:22 default-language-specs/sweave.lang:24
+#: default-language-specs/t2t.lang:23 default-language-specs/tera.lang:23
+#: default-language-specs/texinfo.lang:24 default-language-specs/xml.lang:25
+#: default-language-specs/xslt.lang:23
+msgid "Markup"
+msgstr "Znaczniki"
+
+#. (itstool) path: default-language-specs/cg.lang/language@_name
+#: default-language-specs/cg.lang:23
+msgid "CG Shader Language"
+msgstr "Język cieniowania CG"
+
+#. (itstool) path: default-language-specs/changelog.lang/language@_section
+#. (itstool) path: default-language-specs/cmake.lang/language@_section
+#. (itstool) path: default-language-specs/css.lang/language@_section
+#. (itstool) path: default-language-specs/csv.lang/language@_section
+#. (itstool) path: default-language-specs/desktop.lang/language@_section
+#. (itstool) path: default-language-specs/diff.lang/language@_section
+#. (itstool) path: default-language-specs/dot.lang/language@_section
+#. (itstool) path: default-language-specs/dpatch.lang/language@_section
+#. (itstool) path: default-language-specs/gdb-log.lang/language@_section
+#. (itstool) path: default-language-specs/gtkrc.lang/language@_section
+#. (itstool) path: default-language-specs/ini.lang/language@_section
+#. (itstool) path: default-language-specs/json.lang/language@_section
+#. (itstool) path: default-language-specs/less.lang/language@_section
+#. (itstool) path: default-language-specs/libtool.lang/language@_section
+#. (itstool) path: default-language-specs/logcat.lang/language@_section
+#. (itstool) path: default-language-specs/nix.lang/language@_section
+#. (itstool) path: default-language-specs/nsis.lang/language@_section
+#. (itstool) path: default-language-specs/ocl.lang/language@_section
+#. (itstool) path: default-language-specs/pkgconfig.lang/language@_section
+#. (itstool) path: default-language-specs/po.lang/language@_section
+#. (itstool) path: default-language-specs/protobuf.lang/language@_section
+#. (itstool) path: default-language-specs/puppet.lang/language@_section
+#. (itstool) path: default-language-specs/rpmspec.lang/language@_section
+#. (itstool) path: default-language-specs/scss.lang/language@_section
+#. (itstool) path: default-language-specs/toml.lang/language@_section
+#. (itstool) path: default-language-specs/yacc.lang/language@_section
+#. (itstool) path: default-language-specs/yaml.lang/language@_section
+#: default-language-specs/changelog.lang:24
+#: default-language-specs/cmake.lang:23 default-language-specs/css.lang:26
+#: default-language-specs/csv.lang:23 default-language-specs/desktop.lang:24
+#: default-language-specs/diff.lang:23 default-language-specs/dot.lang:23
+#: default-language-specs/dpatch.lang:23 default-language-specs/gdb-log.lang:18
+#: default-language-specs/gtkrc.lang:24 default-language-specs/ini.lang:22
+#: default-language-specs/json.lang:29 default-language-specs/less.lang:23
+#: default-language-specs/libtool.lang:23 default-language-specs/logcat.lang:23
+#: default-language-specs/nix.lang:23 default-language-specs/nsis.lang:23
+#: default-language-specs/ocl.lang:32 default-language-specs/pkgconfig.lang:23
+#: default-language-specs/po.lang:23 default-language-specs/protobuf.lang:21
+#: default-language-specs/puppet.lang:23 default-language-specs/rpmspec.lang:24
+#: default-language-specs/scss.lang:23 default-language-specs/toml.lang:23
+#: default-language-specs/yacc.lang:23 default-language-specs/yaml.lang:21
+msgid "Other"
+msgstr "Inne"
+
+#. (itstool) path: default-language-specs/chdr.lang/language@_name
+#: default-language-specs/chdr.lang:24
+msgid "C/ObjC Header"
+msgstr "Nagłówek C/ObjC"
+
+#. (itstool) path: default-language-specs/cpphdr.lang/language@_name
+#: default-language-specs/cpphdr.lang:24
+msgid "C++ Header"
+msgstr "Nagłówek C++"
+
+#. (itstool) path: default-language-specs/dosbatch.lang/language@_name
+#: default-language-specs/dosbatch.lang:23
+msgid "DOS Batch"
+msgstr "Plik wsadowy DOS"
+
+#. (itstool) path: default-language-specs/dtl.lang/language@_name
+#: default-language-specs/dtl.lang:25
+msgid "Django Template"
+msgstr "Szablon Django"
+
+#. (itstool) path: default-language-specs/fcl.lang/language@_section
+#. (itstool) path: default-language-specs/gap.lang/language@_section
+#. (itstool) path: default-language-specs/idl-exelis.lang/language@_section
+#. (itstool) path: default-language-specs/imagej.lang/language@_section
+#. (itstool) path: default-language-specs/julia.lang/language@_section
+#. (itstool) path: default-language-specs/matlab.lang/language@_section
+#. (itstool) path: default-language-specs/maxima.lang/language@_section
+#. (itstool) path: default-language-specs/modelica.lang/language@_section
+#. (itstool) path: default-language-specs/octave.lang/language@_section
+#. (itstool) path: default-language-specs/R.lang/language@_section
+#. (itstool) path: default-language-specs/scilab.lang/language@_section
+#: default-language-specs/fcl.lang:23 default-language-specs/gap.lang:23
+#: default-language-specs/idl-exelis.lang:20
+#: default-language-specs/imagej.lang:23 default-language-specs/julia.lang:23
+#: default-language-specs/matlab.lang:25 default-language-specs/maxima.lang:24
+#: default-language-specs/modelica.lang:25
+#: default-language-specs/octave.lang:25 default-language-specs/R.lang:25
+#: default-language-specs/scilab.lang:23
+msgid "Scientific"
+msgstr "Naukowe"
+
+#. (itstool) path: default-language-specs/gdb-log.lang/language@_name
+#: default-language-specs/gdb-log.lang:18
+msgid "GDB Log"
+msgstr "Dziennik GDB"
+
+#. (itstool) path: default-language-specs/glsl.lang/language@_name
+#: default-language-specs/glsl.lang:30
+msgid "OpenGL Shading Language"
+msgstr "Język cieniowania OpenGL"
+
+#. (itstool) path: default-language-specs/llvm.lang/language@_name
+#: default-language-specs/llvm.lang:22
+msgid "LLVM IR"
+msgstr "IR biblioteki LLVM"
+
+#. (itstool) path: default-language-specs/po.lang/language@_name
+#: default-language-specs/po.lang:23
+msgid "gettext translation"
+msgstr "Tłumaczenie gettext"
+
+#. (itstool) path: default-language-specs/rpmspec.lang/language@_name
+#: default-language-specs/rpmspec.lang:24
+msgid "RPM spec"
+msgstr "Plik spec formatu RPM"
+
+#. (itstool) path: default-language-specs/tera.lang/language@_name
+#: default-language-specs/tera.lang:23
+msgid "Tera Template"
+msgstr "Szablon Tera"
+
+#. (itstool) path: default-style-schemes/classic.xml/style-scheme@_name
+#: default-style-schemes/classic.xml:23
+msgid "Classic"
+msgstr "Klasyczny"
+
+#. (itstool) path: style-scheme/_description
+#: default-style-schemes/classic.xml:25
+msgid "Classic color scheme"
+msgstr "Klasyczny schemat kolorów"
+
+#. (itstool) path: default-style-schemes/cobalt.xml/style-scheme@_name
+#: default-style-schemes/cobalt.xml:25
+msgid "Cobalt"
+msgstr "Kobalt"
+
+#. (itstool) path: style-scheme/_description
+#: default-style-schemes/cobalt.xml:27
+msgid "Blue based color scheme"
+msgstr "Niebieski schemat kolorów"
+
+#. (itstool) path: style-scheme/_description
+#: default-style-schemes/kate.xml:25
+msgid "Color scheme used in the Kate text editor"
+msgstr "Schemat kolorów używany w edytorze tekstu Kate"
+
+#. (itstool) path: default-style-schemes/oblivion.xml/style-scheme@_name
+#: default-style-schemes/oblivion.xml:24
+msgid "Oblivion"
+msgstr "Oblivion"
+
+#. (itstool) path: style-scheme/_description
+#: default-style-schemes/oblivion.xml:27
+msgid "Dark color scheme using the Tango color palette"
+msgstr "Schemat używający ciemnych kolorów z palety Tango"
+
+#. (itstool) path: default-style-schemes/solarized-dark.xml/style-scheme@_name
+#: default-style-schemes/solarized-dark.xml:23
+msgid "Solarized Dark"
+msgstr "Ciemny Solarized"
+
+#. (itstool) path: style-scheme/_description
+#: default-style-schemes/solarized-dark.xml:25
+msgid "Color scheme using Solarized dark color palette"
+msgstr "Schemat kolorów używający ciemnej palety Solarized"
+
+#. (itstool) path: default-style-schemes/solarized-light.xml/style-scheme@_name
+#: default-style-schemes/solarized-light.xml:23
+msgid "Solarized Light"
+msgstr "Jasny Solarized"
+
+#. (itstool) path: style-scheme/_description
+#: default-style-schemes/solarized-light.xml:25
+msgid "Color scheme using Solarized light color palette"
+msgstr "Schemat kolorów używający jasnej palety Solarized"
+
+#. (itstool) path: default-style-schemes/tango.xml/style-scheme@_name
+#: default-style-schemes/tango.xml:23
+msgid "Tango"
+msgstr "Tango"
+
+#. (itstool) path: style-scheme/_description
+#: default-style-schemes/tango.xml:25
+msgid "Color scheme using Tango color palette"
+msgstr "Schemat kolorów używający palety Tango"
+
+#: gtksourceview/completion-providers/words/gtksourcecompletionwords.c:332
+msgid "Document Words"
+msgstr "Słowa dokumentu"
+
+#: gtksourceview/gtksourcebufferoutputstream.c:842
+msgid "Invalid byte sequence in conversion input"
+msgstr "Nieprawidłowa sekwencja bajtów w wejściu konwersji"
+
+#: gtksourceview/gtksourcebufferoutputstream.c:848
+#, c-format
+msgid "Error during conversion: %s"
+msgstr "Błąd podczas konwersji: %s"
+
+#: gtksourceview/gtksourcebufferoutputstream.c:929
+#, c-format
+msgid "Conversion from character set “%s” to “UTF-8” is not supported"
+msgstr "Konwersja z zestawu znaków „%s” do „UTF-8” jest nieobsługiwana"
+
+#: gtksourceview/gtksourcebufferoutputstream.c:935
+#, c-format
+msgid "Could not open converter from “%s” to “UTF-8”"
+msgstr "Nie można otworzyć konwertera z „%s” do „UTF-8”"
+
+#: gtksourceview/gtksourcebufferoutputstream.c:995
+msgid "Invalid object, not initialized"
+msgstr "Nieprawidłowy obiekt, nie zainicjowano"
+
+#: gtksourceview/gtksourcebufferoutputstream.c:1187
+#, c-format
+msgid "Incomplete UTF-8 sequence in input"
+msgstr "Niepełna sekwencja UTF-8 na wejściu"
+
+#. Translators: "All" is used as a label in the status bar of the
+#. popup, telling that all completion pages are shown.
+#: gtksourceview/gtksourcecompletion.c:833
+msgid "All"
+msgstr "Wszystko"
+
+#. Tooltip style
+#: gtksourceview/gtksourcecompletioninfo.c:262
+msgid "Completion Info"
+msgstr "Informacje o uzupełnianiu"
+
+#: gtksourceview/gtksourcecompletionmodel.c:494
+msgid "Provider"
+msgstr "Dostawca"
+
+#: gtksourceview/gtksourcecompletion.ui:86
+msgid "Show detailed proposal information"
+msgstr "Wyświetlanie szczegółowych informacji o propozycji"
+
+#: gtksourceview/gtksourcecompletion.ui:88
+msgid "_Details…"
+msgstr "_Szczegóły…"
+
+#. regex_new could fail, for instance if there are different
+#. * named sub-patterns with the same name or if resulting regex is
+#. * too long. In this case fixing lang file helps (e.g. renaming
+#. * subpatterns, making huge keywords use bigger prefixes, etc.)
+#: gtksourceview/gtksourcecontextengine.c:3140
+#, c-format
+msgid ""
+"Cannot create a regex for all the transitions, the syntax highlighting "
+"process will be slower than usual.\n"
+"The error was: %s"
+msgstr ""
+"Nie można utworzyć wyrażenia regularnego dla wszystkich przejść, przez co "
+"proces wyróżniania elementów składni będzie spowolniony.\n"
+"Wystąpił błąd: %s"
+
+#: gtksourceview/gtksourcecontextengine.c:4472
+msgid ""
+"Highlighting a single line took too much time, syntax highlighting will be "
+"disabled"
+msgstr ""
+"Wyróżnianie składni w wierszu zajęło zbyt dużo czasu i zostanie wyłączone"
+
+#: gtksourceview/gtksourcecontextengine.c:5720
+#, c-format
+msgid "context “%s” cannot contain a \\%%{...@start} command"
+msgstr "kontekst „%s” nie może zawierać polecenia \\%%{...@start}"
+
+#: gtksourceview/gtksourcecontextengine.c:5883
+#: gtksourceview/gtksourcecontextengine.c:5973
+#, c-format
+msgid "duplicated context id “%s”"
+msgstr "powtórzony identyfikator kontekstu „%s”"
+
+#: gtksourceview/gtksourcecontextengine.c:6087
+#: gtksourceview/gtksourcecontextengine.c:6147
+#, c-format
+msgid ""
+"style override used with wildcard context reference in language “%s” in ref "
+"“%s”"
+msgstr ""
+"użyto wymuszenia stylu za pomocą ogólnej referencji kontekstu w języku „%s”, "
+"w referencji „%s”"
+
+#: gtksourceview/gtksourcecontextengine.c:6161
+#, c-format
+msgid "invalid context reference “%s”"
+msgstr "nieprawidłowa referencja kontekstu „%s”"
+
+#: gtksourceview/gtksourcecontextengine.c:6180
+#: gtksourceview/gtksourcecontextengine.c:6190
+#, c-format
+msgid "unknown context “%s”"
+msgstr "nieznany kontekst „%s”"
+
+#: gtksourceview/gtksourcecontextengine.c:6289
+#, c-format
+msgid "Missing main language definition (id = \"%s\".)"
+msgstr "Brakująca główna definicja języka (identyfikator = „%s”)."
+
+#: gtksourceview/gtksourceencoding.c:146 gtksourceview/gtksourceencoding.c:189
+#: gtksourceview/gtksourceencoding.c:191 gtksourceview/gtksourceencoding.c:193
+#: gtksourceview/gtksourceencoding.c:195 gtksourceview/gtksourceencoding.c:197
+#: gtksourceview/gtksourceencoding.c:199 gtksourceview/gtksourceencoding.c:201
+msgid "Unicode"
+msgstr "unikod"
+
+#: gtksourceview/gtksourceencoding.c:160 gtksourceview/gtksourceencoding.c:184
+#: gtksourceview/gtksourceencoding.c:234 gtksourceview/gtksourceencoding.c:277
+msgid "Western"
+msgstr "zachodnie"
+
+#: gtksourceview/gtksourceencoding.c:162 gtksourceview/gtksourceencoding.c:236
+#: gtksourceview/gtksourceencoding.c:273
+msgid "Central European"
+msgstr "środkowoeuropejskie"
+
+#: gtksourceview/gtksourceencoding.c:164
+msgid "South European"
+msgstr "południowoeuropejskie"
+
+#: gtksourceview/gtksourceencoding.c:166 gtksourceview/gtksourceencoding.c:180
+#: gtksourceview/gtksourceencoding.c:287
+msgid "Baltic"
+msgstr "bałtyckie"
+
+#: gtksourceview/gtksourceencoding.c:168 gtksourceview/gtksourceencoding.c:238
+#: gtksourceview/gtksourceencoding.c:251 gtksourceview/gtksourceencoding.c:255
+#: gtksourceview/gtksourceencoding.c:257 gtksourceview/gtksourceencoding.c:275
+msgid "Cyrillic"
+msgstr "cyrylica"
+
+#: gtksourceview/gtksourceencoding.c:170 gtksourceview/gtksourceencoding.c:244
+#: gtksourceview/gtksourceencoding.c:285
+msgid "Arabic"
+msgstr "arabskie"
+
+#: gtksourceview/gtksourceencoding.c:172 gtksourceview/gtksourceencoding.c:279
+msgid "Greek"
+msgstr "greckie"
+
+#: gtksourceview/gtksourceencoding.c:174
+msgid "Hebrew Visual"
+msgstr "hebrajskie (wizualne)"
+
+#: gtksourceview/gtksourceencoding.c:176 gtksourceview/gtksourceencoding.c:240
+#: gtksourceview/gtksourceencoding.c:281
+msgid "Turkish"
+msgstr "tureckie"
+
+#: gtksourceview/gtksourceencoding.c:178
+msgid "Nordic"
+msgstr "nordyckie"
+
+#: gtksourceview/gtksourceencoding.c:182
+msgid "Celtic"
+msgstr "celtyckie"
+
+#: gtksourceview/gtksourceencoding.c:186
+msgid "Romanian"
+msgstr "rumuńskie"
+
+#: gtksourceview/gtksourceencoding.c:204
+msgid "Armenian"
+msgstr "ormiańskie"
+
+#: gtksourceview/gtksourceencoding.c:206 gtksourceview/gtksourceencoding.c:208
+#: gtksourceview/gtksourceencoding.c:222
+msgid "Chinese Traditional"
+msgstr "chińskie (tradycyjne)"
+
+#: gtksourceview/gtksourceencoding.c:210
+msgid "Cyrillic/Russian"
+msgstr "cyrylica/rosyjskie"
+
+#: gtksourceview/gtksourceencoding.c:213 gtksourceview/gtksourceencoding.c:215
+#: gtksourceview/gtksourceencoding.c:217 gtksourceview/gtksourceencoding.c:247
+#: gtksourceview/gtksourceencoding.c:262
+msgid "Japanese"
+msgstr "japońskie"
+
+#: gtksourceview/gtksourceencoding.c:220 gtksourceview/gtksourceencoding.c:249
+#: gtksourceview/gtksourceencoding.c:253 gtksourceview/gtksourceencoding.c:268
+msgid "Korean"
+msgstr "koreańskie"
+
+#: gtksourceview/gtksourceencoding.c:225 gtksourceview/gtksourceencoding.c:227
+#: gtksourceview/gtksourceencoding.c:229
+msgid "Chinese Simplified"
+msgstr "chińskie (uproszczone)"
+
+#: gtksourceview/gtksourceencoding.c:231
+msgid "Georgian"
+msgstr "gruzińskie"
+
+#: gtksourceview/gtksourceencoding.c:242 gtksourceview/gtksourceencoding.c:283
+msgid "Hebrew"
+msgstr "hebrajskie"
+
+#: gtksourceview/gtksourceencoding.c:259
+msgid "Cyrillic/Ukrainian"
+msgstr "cyrylica/ukraińskie"
+
+#: gtksourceview/gtksourceencoding.c:264 gtksourceview/gtksourceencoding.c:270
+#: gtksourceview/gtksourceencoding.c:289
+msgid "Vietnamese"
+msgstr "wietnamskie"
+
+#: gtksourceview/gtksourceencoding.c:266
+msgid "Thai"
+msgstr "tajskie"
+
+#: gtksourceview/gtksourceencoding.c:500
+msgid "Unknown"
+msgstr "nieznane"
+
+#. Translators: This is the sorted list of encodings used by
+#. * GtkSourceView for automatic detection of the file encoding. You may
+#. * want to customize it adding encodings that are common in your
+#. * country, for instance the GB18030 encoding for the Chinese
+#. * translation. You may also want to remove the ISO-8859-15 encoding
+#. * (covering English and most Western European languages) if you think
+#. * people in your country will rarely use it.  "CURRENT" is a magic
+#. * value used by GtkSourceView and it represents the encoding for the
+#. * current locale, so please don't translate the "CURRENT" term.  Only
+#. * recognized encodings are used. See
+#. * https://gitlab.gnome.org/GNOME/gtksourceview/blob/master/gtksourceview/gtksourceencoding.c#L142
+#. * for a list of supported encodings.
+#. * Keep the same format: square brackets, single quotes, commas.
+#.
+#: gtksourceview/gtksourceencoding.c:644
+msgid "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
+msgstr "['UTF-8', 'CURRENT', 'ISO-8859-2', 'WINDOWS-1250', 'UTF-16']"
+
+#: gtksourceview/gtksourcefileloader.c:522
+msgid ""
+"There was a character encoding conversion error and it was needed to use a "
+"fallback character."
+msgstr ""
+"Wystąpił błąd konwersji kodowania znaku i trzeba było użyć znaku zastępczego."
+
+#: gtksourceview/gtksourcefileloader.c:629
+msgid "File too big."
+msgstr "Plik jest za duży."
+
+#: gtksourceview/gtksourcefileloader.c:783
+msgid "Not a regular file."
+msgstr "To nie jest zwykły plik."
+
+#: gtksourceview/gtksourcefilesaver.c:981
+msgid "The file is externally modified."
+msgstr "Plik został zmodyfikowany z zewnątrz."
+
+#: gtksourceview/gtksourcefilesaver.c:1433
+msgid "The buffer contains invalid characters."
+msgstr "Bufor zawiera nieprawidłowe znaki."
+
+#. *
+#. * SECTION:language
+#. * @Short_description: Represents a syntax highlighted language
+#. * @Title: GtkSourceLanguage
+#. * @See_also: #GtkSourceLanguageManager
+#. *
+#. * A #GtkSourceLanguage represents a programming or markup language, affecting
+#. * syntax highlighting and [context classes][context-classes].
+#. *
+#. * Use #GtkSourceLanguageManager to obtain a #GtkSourceLanguage instance, and
+#. * gtk_source_buffer_set_language() to apply it to a #GtkSourceBuffer.
+#.
+#: gtksourceview/gtksourcelanguage.c:56
+msgid "Others"
+msgstr "Inne"
+
+#: gtksourceview/gtksourcelanguage-parser-2.c:949
+#, c-format
+msgid "Unknown id “%s” in regex “%s”"
+msgstr "Nieznany identyfikator „%s” w wyrażeniu regularnym „%s”"
+
+#: gtksourceview/gtksourcelanguage-parser-2.c:1179
+#, c-format
+msgid "in regex “%s”: backreferences are not supported"
+msgstr "wyrażenie regularne „%s”: referencje wsteczne nie są obsługiwane"
+
+#: gtksourceview/gtksourceregex.c:102
+msgid "using \\C is not supported in language definitions"
+msgstr "użycie \\C nie jest obsługiwane w definicjach języka"
+
+#: gtksourceview/gtksourceutils.c:439
+msgid "Bracket match is out of range"
+msgstr "Dopasowanie nawiasu jest poza zakresem"
+
+#: gtksourceview/gtksourceutils.c:442
+msgid "Bracket match not found"
+msgstr "Nie odnaleziono dopasowania nawiasu"
+
+#: gtksourceview/gtksourceutils.c:445
+#, c-format
+msgid "Bracket match found on line: %d"
+msgstr "Odnaleziono dopasowanie nawiasu w wierszu: %d"
+
+#. create redo menu_item.
+#: gtksourceview/gtksourceview.c:1698
+msgid "_Redo"
+msgstr "P_onów"
+
+#. create undo menu_item.
+#: gtksourceview/gtksourceview.c:1709
+msgid "_Undo"
+msgstr "Cof_nij"
+
+#: gtksourceview/gtksourceview.c:1728
+msgid "All _Upper Case"
+msgstr "Wszystko _wielkimi literami"
+
+#: gtksourceview/gtksourceview.c:1738
+msgid "All _Lower Case"
+msgstr "Wszystko _małymi literami"
+
+#: gtksourceview/gtksourceview.c:1748
+msgid "_Invert Case"
+msgstr "_Odwróć wielkość liter"
+
+#: gtksourceview/gtksourceview.c:1758
+msgid "_Title Case"
+msgstr "Jak W _Tytule"
+
+#: gtksourceview/gtksourceview.c:1768
+msgid "C_hange Case"
+msgstr "_Zmień wielkość liter"

@@ -1,0 +1,14 @@
+Document: libgedit-gtksourceview-300
+Title: libgedit-gtksourceview Reference Manual
+Author: The GtkSourceView and Gedit Technology teams
+Abstract: This manual describes the libgedit-gtksourceview text widget.
+ It extends GtkTextView, the standard GTK widget for multiline text
+ editing.  This library adds support for syntax highlighting,
+ undo/redo, file loading and saving, search and replace, a completion
+ system, printing, displaying line numbers, and other features typical
+ of a source code editor.
+Section: Programming
+
+Format: HTML
+Index: /usr/share/doc/libgedit-gtksourceview-300-doc/html/index.html
+Files: /usr/share/doc/libgedit-gtksourceview-300-doc/html/*.html
